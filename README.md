@@ -3,7 +3,7 @@
 A simple, responsive **Tip Calculator** web application made with HTML, CSS, and JavaScript. This tool helps users calculate tips and total bills easily.
 
 ## Demo
-[Live Demo](https://yourgithubusername.github.io/tip-calculator) 
+[Live Demo](https://phsics.github.io/tip-calculator) 
 
 ## Features
 - Calculate tip based on bill amount and tip percentage.
